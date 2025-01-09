@@ -6,7 +6,7 @@ output: md_document
 ---
 
 ```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = FALSE)
+knitr::opts_chunk$set(include = FALSE)
 ```
 
 # Feedback on re-designed curriculum for the 2025 Schlab software carpentries workshop
