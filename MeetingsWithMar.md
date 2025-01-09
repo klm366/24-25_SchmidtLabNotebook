@@ -1,5 +1,18 @@
 # Meetings with Mar 
 
+## 20250107 - January 7th, 2025
+
+- help/attend the Carpentries workshop Jan 14-15. :) Enjoy the process and assist learners. :)  
+- Continue to read papers on oysters
+	- Check out papers that Mar posted in GitHub in the `relevant_papers` folder. 
+		1. Feinman et al., 2018 - The Influence of Oyster Farming on Sediment Bacterial Communities
+		2. Stevens et al., 2024 - Oyster aquaculture enhances sediment microbial diversity- insights from a multi-omics study
+		3. Murphy et al., 2019 - Bioreactivity and Microbiome of Biodeposits from Filter-Feeding Bivalves 
+- As you read papers take notes on their main points. 
+- Add to the literature review document as you read, thinking of ways that you can combine concepts from each paper. 
+
+
+
 ## 20241218 - December 18th, 2024
 
 - add Ray meta-analysis to zotero
