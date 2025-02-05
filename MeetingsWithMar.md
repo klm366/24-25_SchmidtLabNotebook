@@ -1,5 +1,28 @@
 # Meetings with Mar 
 
+## 20250204 - February 4th, 2025
+
+Discussion of the literature review due on February 15th 
+
+- Intro: 
+	- Role of microbes in marine environments (both in water and sediments), nitrogen and microbial loop
+		- Microbial interdependence
+		- Ecosystem Health/ water quality 
+	- Oysters, history of population depleted, farming
+		- promote ecosystem health/water quality by changing microbes/nitrogen cycle
+- Theme 1: Oysters enhance marine bnethic microbial biodversity and modify microbial composition. 
+	- Microbial compositional change? V4 16S rRNA sequencing methods 
+	- Within sample (alpha) diversity: richness and evenness
+	- Between-sample diversity: Abundance-unweighted and -weighted dissimilarity (Sorensen/Bray-Curtis and UniFrac)
+		- **Who** drives the difference (via differential abundance)? Which taxa change because of oysters
+- Theme 2: Oysters promote marine benthic microbial denitrification.
+	- Who changes in controls versus oyster sediments? Do they carry genes related to denitrification? 
+	- Functionl/metabolic changes due to oysters
+		- Microbial studies (that include quantitative PCR (qPCR), functional annotation of 16S rRNA genes with FAPROTAX or PICRUSt2)
+		- Biogeochemistry studies (including isotope tracers, nitrogen flux measurements, models)
+
+
+
 ## 20250107 - January 7th, 2025
 
 - help/attend the Carpentries workshop Jan 14-15. :) Enjoy the process and assist learners. :)  
