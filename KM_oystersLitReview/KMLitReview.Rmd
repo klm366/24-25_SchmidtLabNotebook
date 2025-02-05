@@ -1,0 +1,43 @@
+---
+title: "Oysters Lit Review - Miller, K"
+author: "Kelly Miller"
+date: "2024-12-19"
+output: pdf_document
+bibliography: references.bib
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Introduction to the microbial world
+
+Walking into the Schmidt Aquatic Microbiology Lab at Cornell University, I had an idea of how nutrients flowed through ecosystems; I knew it all began with plants performing photosynthesis to turn sunlight energy into sugar: an energy form usable for their own growth and reproduction, as well as for organisms higher up the food chain.
+
+As it turns out, autotrophic plant production is not the whole story. Let's zoom out from the macroscopic world for a moment to meet the three domains of life: Bacteria, Archaea, and Eukarya. As humans, we belong to the domain Eukarya, which contains all life forms whose cell(s) have membrane-bound nuclei. As in, not only are all multi-celled organisms Eukarya, but so are some single-celled organisms. In contrast, all organisms belonging to Bacteria and Archaea are made up of one cell and are prokaryotes.[^1]
+
+[^1]: Prokaryotes: single-celled organisms who generally do not have specialized organelles. They are like genetic material-cytosol soup.
+
+[Hold up–that is a lot of organisms with only "simple" structures!]
+
+In other words, all of the life forms recognizable to our eyes make up only a humble fraction of the living community on Earth. In each breath we breathe, about one half of the oxygen has been produced by oceanic bacteria [@pomeroy]. (Thanks bacteria!) [The human hand and chemical fertilizers are not growing our food; microbes are, albeit with the optimization of good land husbandry practices.]
+
+So when we talk about the factors at play regulating ecological systems, when we talk about the cycling of nutrients between earth, water, and sky, it does us well to acknowledge that the drivers of biological processes are microorganisms. It's a microbial world; we're just living in it.
+
+# Introduction to oyster farming
+
+Oyster aquaculture has been practiced globally since ancient civilizations–the likes of Greece, Rome, and the Han Dynasty [@botta2020]. [quote about oyster abundance in the Hudson Bay in the 1800s?] While we face the deleterious ecological impacts of current industrial and agricultural production methods, oyster farming has been proposed as part of a re-imagined, more sustainable food system. Not only does oyster cultivation bypass certain agricultural issues like land scarcity; common scientific thought has it that farming oysters can provide benefits to the health of the ecosystem. These potential benefits include enhanced water quality, habitat provision to other marine species, and storm surge protection [@stevens2024].
+
+benefits: promote biogeochemical cycling, storm surge protection
+
+# Theory #1: Oysters promote the conditions for a diverse community of sediment microbes.
+
+# Theory #2: Oyster aquaculture increases the cycling of nutrients in the ecosystem.
+
+## Summary of Ray & Fulweiler paper, "Meta-analysis of oyster impacts on coastal biogeochemistry"
+
+Oyster aquaculture increases the cycling of nitrogen in marine systems by stimulating denitrifying bacteria and archaea.This improves water quality, with the trade-off of releasing a small amount of nitrous oxide (N~2~o) into the atmosphere [@ray2021].
+
+Testing another citation [@feinman2018].
+
+## Citations
