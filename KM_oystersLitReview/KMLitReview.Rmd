@@ -12,9 +12,11 @@ knitr::opts_chunk$set(echo = TRUE)
 
 # Introduction to the microbial world
 
-Walking into the Schmidt Aquatic Microbiology Lab at Cornell University, I had an idea of how nutrients flowed through ecosystems; I knew it all began with plants performing photosynthesis to turn sunlight energy into sugars for use by their own metabolisms or those of organisms higher in the food chain.
+In a narrative that usually centers around plants, microorganisms are the unsung heroes of primary production. They work on a scale we cannot see, but the effects of their cumulative efforts are impossible to miss. In each breath we take, about one half of the oxygen present has been produced by oceanic microbes [@pomeroy].
 
-As it turns out, autotrophic plant production is not the whole story. Let's zoom out from the macroscopic world for a moment to meet the three domains of life: Bacteria, Archaea, and Eukarya. As humans, we belong to the domain Eukarya, which contains all life forms whose cell(s) have membrane-bound nuclei. In contrast, all organisms of the domains Bacteria and Archaea are not only microscopic, single-celled organisms, but prokaryotes as well–meaning they do not have organelles enclosed by membranes. Instead of performing metabolic pathways from start to finish, like how food is passed from mouth to esophagus to stomach to small intestine, etc., in our digestive systems, microorganisms are reliant on each other to achieve comparable biological processes.
+Yet, we only ever seem to thank plants for the
+
+Let's zoom out from the macroscopic world for a moment to meet the three domains of life: Bacteria, Archaea, and Eukarya. As humans, we belong to the domain Eukarya, which contains all life forms whose cell(s) have membrane-bound nuclei. In contrast, all organisms of the domains Bacteria and Archaea are not only microscopic, single-celled organisms, but prokaryotes as well–meaning they do not have organelles enclosed by membranes. Instead of performing metabolic pathways from start to finish, like how food is passed from mouth to esophagus to stomach to small intestine, etc., in our digestive systems, microorganisms are reliant on each other to achieve comparable biological processes.
 
 This behavior led Dr. Farooq Azam from the University of California - San Diego to describe bacteria as the "ultimate swimming stomachs" [@pomeroy]. tried to articulate this phenomenon of However, let their simplicity not be misconstrued for irrelevance to our lives; microbes facilitate biological processes that we could not survive without. As for the communal aspect
 
