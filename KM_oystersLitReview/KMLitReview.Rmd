@@ -1,7 +1,7 @@
 ---
-title: "Oysters Lit Review - Miller, K"
+title: "Review of the Literature on Oyster Bed Microbial Communities"
 author: "Kelly Miller"
-date: "2024-12-19"
+date: "2025-02-07"
 output: pdf_document
 bibliography: references.bib
 ---
@@ -12,31 +12,25 @@ knitr::opts_chunk$set(echo = TRUE)
 
 # Introduction to the microbial world
 
-In a narrative that usually centers around plants, microorganisms are the unsung heroes of primary production. They work on a scale we cannot see, but the effects of their cumulative efforts are impossible to miss. Half of the oxygen in each breath we take has been produced by oceanic microbes [@pomeroy]. When we talk about the factors at play regulating ecological systems, when we talk about the cycling of nutrients between earth, water, sky, and us, it does us well to acknowledge that the drivers of biological processes are microorganisms. It's a microbial world; we're just living in it.
+In a narrative that usually centers around plants, microorganisms are the unsung heroes of primary production. They work on a scale we cannot see, but the effects of their cumulative efforts are impossible to miss. Half of the oxygen in each breath we take has been produced by oceanic microbes [@pomeroy]. But who learned that in high school Biology?
 
-So let's zoom out from the macroscopic world for a moment to meet the three domains of life: Bacteria, Archaea, and Eukarya. As humans, we belong to the domain Eukarya, along with all other organisms whose cell(s) have genetic material enclosed in membrane-bound nuclei. In other words, in the most basic deliniation between all life forms present on Earth, we, in all of our complexity, are grouped with plants, fungi, and many microbial species (including some single-celled microbes), while the two remaining categories are exclusively microbes–prokaryotic[^1] microbes, to be specific.
+Let's start by meeting the three domains of life: Bacteria, Archaea, and Eukarya. In the classification system (domain, kingdom, phylum..., species), domain is the broadest level of distinction. As humans, we belong to the domain Eukarya, along with all other organisms whose cell(s) have genetic material enclosed in membrane-bound nuclei. In other words, in the most basic deliniation between all life forms present on Earth, we, in all of our complexity, are grouped with plants, fungi, and many microbial species (including some single-celled microbes), while the two remaining categories are not only exclusively microbes, but exclusively prokaryotic[^1] microbes.
 
-[^1]: Prokaryotes: Unicellular microbes with free-floating genetic material in their cytoplasm. They can have organelles, like ribosomes (which all organisms have) or flagella (little extracellular hairlike-structures that enable movement for cells floating through the big void of the ocean or my stomach, for example), but they do not have membrane-bound organelles. A prokaryotic cell is like DNA/RNA-cytoplasm soup.
+[^1]: Prokaryotes: Unicellular microbes with free-floating genetic material in their cytoplasm. They can have organelles, like ribosomes (which all organisms have) or flagella (little extracellular hairlike-structures that enable movement for cells), but they do not have membrane-bound organelles. A prokaryotic cell is like DNA/RNA-cytoplasm soup.
 
-organisms, but prokaryotes as well–meaning they do not have organelles enclosed by membranes. Instead of performing metabolic pathways from start to finish, like how food is passed from mouth to esophagus to stomach to small intestine, etc., in our digestive systems, microorganisms are reliant on each other to achieve comparable biological processes.
+Instead of performing metabolic pathways from start to finish, like how food is passed from mouth to esophagus to stomach to small intestine, etc., in our digestive systems, microorganisms are reliant on each other to achieve comparable biological processes. Take a look at the denitrification step of the nitrogen cycle, which–among other applications–is facilitated by microbial communities in the marine sediments associated with oyster farms: nitrate (NO~3~^-^) is converted by \_\_ to nitrite (NO~2~^-^)\_\_\_ which is converted nitric oxide (NO) by \_\_\_\_ and then to nitrous oxide (N~2~O) by \_\_\_\_\_ and finally to dinitrogen (N~2~) by \_\_\_\_\_\_. Each microorganism in this pathway has a unique enzyme that catalyzes one particular reaction in the sequence, with the collective result being denitrification.[^2] Dr. Lawrence Pomeroy describes these community behaviors as "external digestive processes [which] provide shared benefits for motile bacteria" [@pomeroy]. Dr. Farooq Azam simplifies this further, calling microbial communities the "ultimate swimming stomachs" [@pomeroy].
 
-This behavior led Dr. Farooq Azam from the University of California - San Diego to describe bacteria as the "ultimate swimming stomachs" [@pomeroy]. tried to articulate this phenomenon of However, let their simplicity not be misconstrued for irrelevance to our lives; microbes facilitate biological processes that we could not survive without. As for the communal aspect
+[^2]: More on this later. Denitrification is an important aspect of the role that sediment microbes in oyster beds play as water purifiers.
 
-Microbial species like \_\_\_\_\_\_\_ and \_\_\_\_\_\_\_ can break down metals that our systems could never dream of handling (cite cool example?). I share these two examples to highlight the diversity of the wonderful world of wee organisms.
-
-like how our Bacterial and archaeal organisms often have
-
-In each breath we breathe, about one half of the oxygen has been produced by oceanic microbes[@pomeroy]. It proves challenging to comprehend the sheer abundance of microorganisms that must be . For perspective, the number of stars in the universe is estimated to be 10\^21, while the number of bacteria in the ocean is
-
-In other words, not only do all of the life forms recognizable to our eyes make up only a humble fraction of the living community on Earth; most of life exists as single cells that each perform In each breath we breathe, about one half of the oxygen has been produced by oceanic bacteria [@pomeroy]. (Thanks bacteria!) [The human hand and chemical fertilizers are not growing our food; microbes are, albeit with the optimization of good land husbandry practices.]
+When we talk about the factors at play regulating ecological systems, when we talk about the cycling of nutrients between earth, water, sky, and us, it does us well to acknowledge that the drivers of biological processes are microorganisms. It's a microbial world; we're just living in it.
 
 # Introduction to oyster farming
 
 Oyster aquaculture on the eastern seaboard has risen (?) in the last several decades, after centuries of declining natural populations from over-harvesting (fact check?). While we face the deleterious ecological impacts of current industrial and agricultural production methods, oyster farming has been proposed as part of a re-imagined, more sustainable food system. Not only does oyster cultivation bypass certain agricultural issues like land scarcity; common scientific thought has it that farming oysters can provide benefits to the health of the ecosystem. These potential benefits include enhanced water quality, habitat provision to other marine species, and storm surge protection [@stevens2024].
 
-While oysters do pull algae and larger plankton[^2] (macroplankton) from the water column, this is not the extent of their ability to improve water quality. The real magic makers live in oyster poop.
+While oysters do pull algae and larger plankton[^3] (macroplankton) from the water column, this is not the extent of their ability to improve water quality. The real magic makers live in oyster poop.
 
-[^2]: microorganisms that are not motile; they move with the currents
+[^3]: microorganisms that are not motile; they move with the currents
 
 are filter-feeders. They suck water through their gills, filtering out larger (?) plankton and algae while seawater passes through.
 
