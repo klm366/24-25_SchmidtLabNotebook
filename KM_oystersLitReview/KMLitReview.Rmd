@@ -12,7 +12,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 # Introduction to the microbial world
 
-In a narrative that usually centers around plants, microorganisms are the unsung heroes of primary production. They work on a scale we cannot see, but the effects of their cumulative efforts are impossible to miss. Half of the oxygen in each breath we take has been produced by oceanic microbes [@pomeroy]. But who learned that in high school Biology?
+In a narrative that usually centers around plants, microorganisms are the unsung heroes of primary production. They work on a scale we cannot see, but the effects of their cumulative efforts are impossible to miss. Half of the oxygen in each breath we take has been produced by oceanic microbes [@pomeroy]. [But who learned that in high school Biology?] \<- (Don't love this)
 
 Let's start by meeting the three domains of life: Bacteria, Archaea, and Eukarya. In the classification system (domain, kingdom, phylum..., species), domain is the broadest level of distinction. As humans, we belong to the domain Eukarya, along with all other organisms whose cell(s) have genetic material enclosed in membrane-bound nuclei. In other words, in the most basic deliniation between life forms present on Earth, we, in all of our complexity, are grouped with plants, fungi, and many microbial species (including some single-celled microbes), while the two remaining categories are not only exclusively microbes, but exclusively prokaryotic[^1] microbes.
 
@@ -30,17 +30,18 @@ When we talk about the factors at play regulating ecological systems, when we ta
 
 # Introduction to oyster farming
 
-While we face the deleterious ecological impacts of current industrial and agricultural production methods, oyster aquaculture has been proposed as part of a re-imagined, more sustainable food system. Not only does oyster cultivation bypass common agricultural issues like land scarcity; farming oysters can provide benefits to the health of the marine ecosystems to which they are native. These potential benefits include enhanced water quality, habitat provision to other marine species, and storm surge protection [@stevens2024].
+As we face the deleterious ecological impacts of current industrial and agricultural production methods, oyster aquaculture has been proposed as part of a reimagined food system with greater sustainability. Not only does oyster cultivation bypass common agricultural issues like land scarcity; farming oysters can provide benefits to the health of the marine ecosystems to which they are native. These potential benefits include enhanced water quality, habitat provision to other marine species, and storm surge protection [@stevens2024].
 
-While oysters do pull algae and larger plankton[^3] (macroplankton) from the water column, this is not the extent of their ability to improve water quality. The real magic makers live in oyster poop. Oysters are filter-feeders. They suck water through their gills [insert diagram of oyster], filtering out larger (?) plankton and algae while seawater passes through. Once their food is digeste
+[![Anatomy of an Oyster](oyster_diagram_better.jpg){width="289"}](https://boudewijnhuijgens.getarchive.net/amp/media/psm-v06-d025-organism-of-an-oyster-f4fc6e)
 
-[^3]: microorganisms that are not motile; they move with the currents
+```{r chunkname, echo = FALSE, outwidth = "65%", out.extra = 'style="float:right; padding:10px"'}
+```
+
+(\^\^\^need help getting text to wrap here.)
+
+Oysters are filter-feeders. [50 gal or \~200 L seawater per day] They suck water through their gills [insert diagram of oyster], filtering out larger (?) plankton and algae while seawater passes through. The particulate matter (rename to avoid plaigarism) -\> feces or pseudofeces
 
 are filter-feeders. They suck water through their gills, filtering out larger (?) plankton and algae while seawater passes through.
-
-Oyster aquaculture has been practiced globally since ancient civilizations–the likes of Greece, Rome, and the Han Dynasty [@botta2020]. [quote about oyster abundance in the Hudson Bay in the 1800s?] While we face the deleterious ecological impacts of current industrial and agricultural production methods, oyster farming has been proposed as part of a re-imagined, more sustainable food system. Not only does oyster cultivation bypass certain agricultural issues like land scarcity; common scientific thought has it that farming oysters can provide benefits to the health of the ecosystem. These potential benefits include enhanced water quality, habitat provision to other marine species, and storm surge protection [@stevens2024].
-
-benefits: promote biogeochemical cycling, storm surge protection
 
 # Theory #1: Oysters enhance the biodiversity and composition of microbial communities in the seafloor.
 
