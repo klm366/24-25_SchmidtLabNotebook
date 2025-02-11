@@ -20,7 +20,9 @@ Let's start by meeting the three domains of life: Bacteria, Archaea, and Eukarya
 
 [Could talk more about bacteria and archaeans, as understanding them seems pertinent to understanding microbiology, in my opinion]
 
-Instead of performing metabolic pathways from start to finish, like how in our digestive systems food is passed from mouth to esophagus to stomach to small intestine, etc., microorganisms are reliant on each other to achieve comparable biological processes. Take a look at the denitrification step of the nitrogen cycle, which–among other applications–is facilitated by microbial communities in the marine sediments associated with oyster farms: nitrate (NO~3~^-^) is converted by \_\_ to nitrite (NO~2~^-^)\_\_\_ which is converted nitric oxide (NO) by \_\_\_\_ and then to nitrous oxide (N~2~O) by \_\_\_\_\_ and finally to dinitrogen (N~2~) by \_\_\_\_\_\_. Each microorganism in this pathway has a unique enzyme that catalyzes one particular reaction in the sequence, with the collective result being denitrification.[^2] Dr. Lawrence Pomeroy describes such microbial community behaviors as "external digestive processes [which] provide shared benefits for motile bacteria" [@pomeroy]. Dr. Farooq Azam simplifies this further, calling microbial communities the "ultimate swimming stomachs" [@pomeroy].
+Though archaeans are undoubtedly important members of microbial communities, they are understudied. ...not discovered until 1977 [@uncoveri] (accounting for not talking about them much in the rest of the paper. I know they were excluded from at least one study that I read; should go back and reread the other ones.)
+
+Instead of performing metabolic pathways from start to finish, like how in our digestive systems food is passed from mouth to esophagus to stomach to small intestine, etc., microorganisms are reliant on each other to achieve comparable biological processes. Take a look at the denitrification step of the nitrogen cycle, which–among other applications–is facilitated by microbial communities in the marine sediments associated with oyster farms: nitrate (NO~3~^-^) is converted by bacteria and archeans with the *nirS* gene, like some bac phlylas Proteobacteria, Firmicutes, Actinobacteria, and Bacteriodetes, to nitrite (NO~2~^-^)\_\_\_ which is converted nitric oxide (NO) by \_\_\_\_ and then to nitrous oxide (N~2~O) by \_\_\_\_\_ and finally to dinitrogen (N~2~) by \_\_\_\_\_\_. Each microorganism in this pathway has a unique enzyme that catalyzes one particular reaction in the sequence, with the collective result being denitrification.[^2] Dr. Lawrence Pomeroy describes such microbial community behaviors as "external digestive processes [which] provide shared benefits for motile bacteria" [@pomeroy]. Dr. Farooq Azam simplifies this further, calling microbial communities the "ultimate swimming stomachs" [@pomeroy].
 
 [^2]: More on this later. Denitrification is an important aspect of the role that sediment microbes in oyster beds play as water purifiers.
 
@@ -28,22 +30,24 @@ Instead of performing metabolic pathways from start to finish, like how in our d
 
 When we talk about the factors at play regulating ecological systems, when we talk about the cycling of nutrients between earth, water, sky, and us, it does us well to acknowledge that the drivers of biological processes are microorganisms. It's a microbial world; we're just living in it.
 
+**need to talk about microbial loop**
+
+**I think I will condense my two introduction sections into one and try to smooth everything out but content-wise, this is a good base?**
+
 # Introduction to oyster farming
 
 As we face the deleterious ecological impacts of current industrial and agricultural production methods, oyster aquaculture has been proposed as part of a food system reimagined to have greater sustainability. Not only does oyster cultivation bypass common agricultural issues like land scarcity; farming oysters can provide benefits to the health of the marine ecosystems to which they are native. These potential benefits include enhanced water quality, habitat provision to other marine species, and storm surge protection [@stevens2024].
 
-[![Anatomy of an Oyster](oyster_diagram_better.jpg){width="289"}](https://boudewijnhuijgens.getarchive.net/amp/media/psm-v06-d025-organism-of-an-oyster-f4fc6e)
+[![Anatomy of an Oyster (may make my own diagram)](oyster_diagram_better.jpg){width="289"}](https://boudewijnhuijgens.getarchive.net/amp/media/psm-v06-d025-organism-of-an-oyster-f4fc6e)
 
 ```{r chunkname, echo = FALSE, outwidth = "65%", out.extra = 'style="float:right; padding:10px"'}
 ```
 
 (\^\^\^need help getting text to wrap here.)
 
-Oysters feed by filtering particulate organic matter (POM), like algae and seawater (\~50 gallons each day) and
+Oysters are filter-feeders. They filter \~50 gallons of seawater per day, taking in algae and large plankton through their gills while smaller plankton and water pass through. The organic matter retained by the oyster is then either ingested, passing through the oyster's digestive tract to be excreted as feces, or rejected by the oyster, wrapped in a mucosal lining and deposited into the sediment as pseudofeces.
 
-are filter-feeders. [50 gal or \~200 L seawater per day] They suck water through their gills [insert diagram of oyster], filtering out larger (?) plankton and algae while seawater passes through. What particulate matter they digest is transferred to the sediment as feces, while some particulate matter is not digested and gets wrapped in mucus and deposited as pseudofeces. The particulate matter (rename to avoid plaigarism) -\> feces or pseudofeces
-
-are filter-feeders. They suck water through their gills, filtering out larger (?) plankton and algae while seawater passes through.
+What else do I need to say here?
 
 # Theory #1: Oysters enhance the biodiversity and composition of microbial communities in the seafloor.
 
