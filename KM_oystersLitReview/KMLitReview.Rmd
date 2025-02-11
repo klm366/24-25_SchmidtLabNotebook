@@ -39,7 +39,9 @@ As we face the deleterious ecological impacts of current industrial and agricult
 
 (\^\^\^need help getting text to wrap here.)
 
-Oysters are filter-feeders. [50 gal or \~200 L seawater per day] They suck water through their gills [insert diagram of oyster], filtering out larger (?) plankton and algae while seawater passes through. What particulate matter they digest is transferred to the sediment as feces, while some particulate matter is not digested and gets wrapped in mucus and deposited as pseudofeces. The particulate matter (rename to avoid plaigarism) -\> feces or pseudofeces
+Oysters feed by filtering particulate organic matter (POM), like algae and seawater (\~50 gallons each day) and
+
+are filter-feeders. [50 gal or \~200 L seawater per day] They suck water through their gills [insert diagram of oyster], filtering out larger (?) plankton and algae while seawater passes through. What particulate matter they digest is transferred to the sediment as feces, while some particulate matter is not digested and gets wrapped in mucus and deposited as pseudofeces. The particulate matter (rename to avoid plaigarism) -\> feces or pseudofeces
 
 are filter-feeders. They suck water through their gills, filtering out larger (?) plankton and algae while seawater passes through.
 
