@@ -1,5 +1,21 @@
 # Meetings with Mar 
 
+## 20250212 - February 12th, 2025
+
+To-Dos for Kelly:
+- Pomodoro Technique the hell out of the two theme sections of my lit review
+- start committing a PDF along with the Rmd file when I push to GitHub
+- learn how to log on to BioHPC server
+
+Things I would like help with from Mar:
+- How to text wrap in Rmd
+- Would love a look-over of the content in my intro
+- Audio record future lectures?
+
+Future participation in BIOMI 4300/6300:
+- Mar will share the slides and audio-record lectures, if possible
+- Kelly will attend discussions on Wednesday mornings and is welcome to go to the lab component of the class, when she has time and feels ready to dive in a little more
+
 ## 20250204 - February 4th, 2025
 
 Discussion of the literature review due on February 15th 
