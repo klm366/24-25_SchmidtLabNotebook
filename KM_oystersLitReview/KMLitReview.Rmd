@@ -14,29 +14,23 @@ knitr::opts_chunk$set(echo = TRUE)
 
 In a narrative that usually centers around plants, microorganisms are the unsung heroes of primary production. They work on a scale we cannot see, but the effects of their cumulative efforts are impossible to miss. Half of the oxygen in each breath we take has been produced by oceanic microbes [@pomeroy]. But who learned that in high school Biology?
 
+**paragraph on microbial loop here**
+
 Let's start by meeting the three domains of life: Bacteria, Archaea, and Eukarya. In the classification system (domain, kingdom, phylum..., species), domain is the broadest level of distinction. As humans, we belong to the domain Eukarya, along with all other organisms whose cell(s) have genetic material enclosed in membrane-bound nuclei. In other words, in the most basic delineation between life forms present on Earth, we, in all of our complexity, are grouped with plants, fungi, and many microbial species (including some single-celled microbes), while the two remaining categories are not only exclusively microbes, but exclusively prokaryotic[^1] microbes.
 
 [^1]: Prokaryotes: Unicellular microbes with free-floating genetic material in their cytoplasm. They can have organelles, like ribosomes (which all organisms have) or flagella (little extracellular hairlike-structures that enable movement for cells), but they do not have membrane-bound organelles. A prokaryotic cell is like DNA/RNA-cytoplasm soup.
 
-There is incredible biodiversity and functional diversity in the microbial world. Our genus (*Homo*) contains our species (*Homo sapien*) and our extinct primate ancestors (ex. *Homo erectus*). Compare this to the bacterial genus *Streptococcus*, which includes bacteria that ferment milk into cheese and yogurt, live in soil, populate and help regulate several of our organ systems, and can cause strep throat and scarlet fever–among other bacterial infections. All this within one clade of bacteria.
+There is incredible biodiversity and functional diversity in the microbial world. Our genus (*Homo*) contains our species (*Homo sapien*) and our extinct primate ancestors (ex. *Homo erectus*). Compare this to the bacterial genus *Streptococcus*, which includes bacteria that ferment milk into cheese and yogurt, live in soil, populate and help regulate several of our organ systems, and can cause strep throat and scarlet fever–among other bacterial infections. All of this within one clade of bacteria.
 
-Archaeans are undoubtedly important members of microbial communities. However, they were not discovered by people until 1977, at which point bacteria had been known to exist for several centuries [@uncoveri]. This, combined with the great functional diversity of microbes and the fact that bacteria are thought to have an abundance tenfold greater than archaeans, may account for the emphasis the field of Microbiology places on Bacteria at the cost of understudying Archaea.
-
-Instead of performing metabolic pathways from start to finish, like how in our digestive systems food is passed from mouth to esophagus to stomach to small intestine, etc., microorganisms are reliant on each other to achieve comparable biological processes. Take a look at the denitrification step of the nitrogen cycle, which–among other applications–is facilitated by microbial communities in the marine sediments associated with oyster farms: nitrate (NO~3~^-^) is converted to nitrite (NO~2~^-^) which is converted to nitric oxide (NO) and then to nitrous oxide (N~2~O) and finally to dinitrogen (N~2~). The diagram below shows the equation for denitrification, as well as the enzyme that catalyzes each step of the reaction (ex. nitrate reductase) and the gene that codes for that particular enzyme (ex. *Nar*). I depict denitrification as a linear process, although it one piece of the cyclical way nitrogen flows through ecosystems–the nitrogen cycle.
+Instead of performing metabolic pathways from start to finish, like how in our digestive systems food is passed from mouth to esophagus to stomach to small intestine, etc., microorganisms are reliant on each other to achieve comparable biological processes. Take a look at the denitrification step of the nitrogen cycle, which–among other applications–is facilitated by microbial communities in the marine sediments associated with oyster farms: nitrate (NO~3~^-^) is converted to nitrite (NO~2~^-^) which is converted to nitric oxide (NO) and then to nitrous oxide (N~2~O) and finally to dinitrogen (N~2~). The diagram below shows the equation for denitrification, as well as the enzyme that catalyzes each step of the pathway (ex. nitrate reductase) and the gene responsible for that particular enzyme (ex. *Nar*) [@denitrif] . I depict denitrification as a linear process, although it is only one piece of the cyclical way nitrogen flows through ecosystems–a.k.a. the nitrogen cycle.
 
 ![](images/clipboard-3756250656.png){width="624"}
 
-Each microorganism in this pathway has a specific enzyme that catalyzes one particular reaction in the sequence, with the collective result being denitrification.[^2] Dr. Lawrence Pomeroy describes such microbial community behaviors as "external digestive processes [which] provide shared benefits for motile bacteria" [@pomeroy]. Dr. Farooq Azam simplifies this further, calling microbial communities the "ultimate swimming stomachs" [@pomeroy].
+Each microorganism in this pathway has a specific enzyme that catalyzes one particular reaction in the sequence, with the collective result of denitrification.[^2] Dr. Lawrence Pomeroy describes such microbial community behaviors as "external digestive processes [which] provide shared benefits for motile bacteria" [@pomeroy]. Dr. Farooq Azam simplifies this further, calling microbial communities the "ultimate swimming stomachs" [@pomeroy].
 
 [^2]: More on this later. Denitrification is an important aspect of the role that sediment microbes in oyster beds play as water purifiers.
 
-[Something to smooth transition between paragraphs here. And need to go back and fill in microbes' species.]
-
-When we talk about the factors at play regulating ecological systems, when we talk about the cycling of nutrients between earth, water, sky, and us, it does us well to acknowledge that the drivers of biological processes are microorganisms. It's a microbial world; we're just living in it.
-
-**need to talk about microbial loop**
-
-**I think I will condense my two introduction sections into one and try to smooth everything out but content-wise, this is a good base?**
+In summary, microbes are diverse and abundant. Their community actions provide us with nutrients we need, and they provide the ecosystems we are reliant upon with necessary nutrients. So when we talk about the factors at play regulating ecological systems, when we talk about the cycling of nutrients between earth, water, sky, and us, it does us well to acknowledge that the drivers of biological processes are microorganisms. It's a microbial world; we're just living in it.
 
 # Introduction to oyster farming
 
