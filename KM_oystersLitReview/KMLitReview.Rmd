@@ -36,20 +36,32 @@ In summary, microbes are diverse and abundant. Their community actions provide u
 
 As we face the deleterious ecological impacts of current industrial and agricultural production methods, oyster aquaculture has been proposed as part of a food system reimagined to have greater sustainability. Not only does oyster cultivation bypass common agricultural issues like land scarcity; farming oysters can provide benefits to the health of the marine ecosystems to which they are native. These potential benefits include enhanced water quality, habitat provision to other marine species, and storm surge protection [@stevens2024].
 
-[![Anatomy of an Oyster (may make my own diagram)](oyster_diagram_better.jpg){width="289"}](https://boudewijnhuijgens.getarchive.net/amp/media/psm-v06-d025-organism-of-an-oyster-f4fc6e)
-
 ```{r chunkname, echo = FALSE, outwidth = "65%", out.extra = 'style="float:right; padding:10px"'}
 ```
+
+[![Selected Anatomy of an Eastern Oyster (*Crossastrea virginica*)](images/clipboard-2987364097.png){width="208"}](https://www.mdsg.umd.edu/lesson-plans/eastern-oyster-education)
 
 (\^\^\^need help getting text to wrap here.)
 
 Oysters are filter-feeders. They filter \~50 gallons of seawater per day, taking in algae and large plankton through their gills while smaller plankton and water pass through. The organic matter retained by the oyster is then either ingested, passing through the oyster's digestive tract to be excreted as feces, or rejected by the oyster, wrapped in a mucosal lining and deposited into the sediment as pseudofeces.
 
-What else do I need to say here?
-
 # Theory #1: Oysters enhance the biodiversity and composition of microbial communities in the seafloor.
 
+Oysters themselves filter water by taking in plankton while seawater passes through their gills, however, the perhaps greater source of denitrification in the relationship between oysters and their environment is the microbial communities in their biodeposits (poop). The abundance of urea and ammonia increases microbial growth. Most abundant in these samples were proteobacteria, firmicutes, bacteriodetes, and actinobacteria. Notably, these are all denitrifiers. Some studies showed underwhelming changes to the microbial community in the presence and absence of oyster farming. The one paper on different methods within the Mass Bay (I think it was the Northeastern paper?) found that hanging oysters (grown suspended in the water column) did not impact the soil communities as the oysters were not in contact with the ground. I think there was a study that said older oyster beds had different microbiomes compared to younger ones, measured at year 3, 5, and 7. One paper took into consideration the potential for pathogenic microbes to humans coming form oysters. This paper (#5) found that *Vibrio* species were found in the oyster sediments (*Vibrio* being associated with food-borne illnesses stemming from seafood). However, the *Vibrio* were not the pathogenic strains. The *Vibrio* present in the samples were determined to not be harmful to human health.
+
+Oysters promote biodiverse microbial communities by providing the microbes in the marine sediments with diverse nutrients. Some bacteria species (some denitrifiers?) need trace metals to survive. Oysters provide these to the sediment.
+
+Although it may be easier to understand that oysters themselves are the big denitrifiers, one of the papers argue that the sediment microbes are doing more of the work. Similarly to how there is emphasis in agriculture on creating living soils, on soil as a community that pulls in CO2 from the atmosphere instead of just seeing plants as the main carbon sinks, the marine floor can be seen as a living sediment, where decaying matter is broken down by microbes for the nutrients to be sequestered or recycled.
+
 # Theory #2: Oysters stimulate increased denitrification by sediment microbiota.
+
+Oyster sediment microbes boost the recycling, cycling, and sequestering of many nutrients in the water column, including nitrogen, phosphorous, and silicon. This can help to combat eutrophication and climate change. Industrial and agriculture production often releases excess nutrients, like the three mentioned above, into bodies of water in the form of fuel, fertilizer, and waste run-off. The papers contradict each other with how pronounced this impact is. Some did not even find the difference in eutrophication to be statistically significant. I am curious how they separate the impact of microbes living in and on oysters from those in the sediments. Just a thought. Sediment microbes, like actinobacteria and proteobacteria are part of the denitrification process.
+
+Here's the pathway: nutrient loading on aquatic system - probably from anthropogenic activity. Then, this stimulates an increase in the abundance of many photosynthetic organisms, like cyanobacteria. All the time, decaying matter and detritus is falling through the water column in the form of marine snow. When oysters "catch" plankton and other microbes and algae, they are pulled out from the water column, boosting water clarity. The seafloor is, ideally covered in decay and also microbes. It is a place of regeneration, of recycling. When sediment microbes take in nitrogen paired with organic material (usually it will be in the form of ammonia or urea, although neither of those are organics?? But are they just with carbon anyway?) microbes break the bonds between nitrogen and hydrogen, returning hydrogen to the water column? At some points, our nitrogens in the process of denitrification are paired with oxygens but the oxygens are eventually returned to the water column. Close to the end of the process of denitrification, nitrous oxide is created. Nitrous oxide is a harmful greenhouse gas, however, the amounts released from sediment denitrification are very small. The Fulweiler meta-analysis suggests that the amount of nitrous oxide released is negligable. This would be a good place to put the Ray and Fulweiler nutrient flux diagram.
+
+Oyster poop microbes remineralize unstable nitrogen compounds (urea, ammonia, nitrate, nitrite, nitric oxide, nitrous oxide), returning them to the water column as N~2~. Diatom nitrogen makes up like 70% of our atmosphere and gas rises so a lot of the N~2~ is recycled back into the air. Kind of cool that we are all breathing matter that had its energy spent and has been recycled billions of time. From death back unto life, or something like that.
+
+So to sum it up, oyster sediment bacteria improves water quality and combat eutrophication. Now I am realizing that I need to learn more about how they actually combat eutrophication and mitigate global warming. I think I've mentioned sequestering, but do they really sequester? Maybe I'm getting carbon cycle and nitrogen cycle confused.
 
 ## Summary of Ray & Fulweiler paper, "Meta-analysis of oyster impacts on coastal biogeochemistry"
 
