@@ -4,6 +4,16 @@ author: "Kelly Miller"
 date: "2025-02-07"
 output: pdf_document
 bibliography: references.bib
+header-includes:
+  - \usepackage{setspace}\singlespacing
+  - \usepackage{wrapfig}
+  - \usepackage[singlelinecheck=false]{caption}
+  - \usepackage{caption}
+  - \captionsetup[figure]{font=small}
+  - \pagenumbering{gobble}
+mainfont: Times New Roman
+fontsize: 11pt
+geometry: margin=1in
 ---
 
 ```{r setup, include=FALSE}
@@ -44,18 +54,23 @@ Microbes are diverse, abundant, and essential to life on Earth. Their community 
 
 It's a microbial world—we're just living in it.
 
+\newpage
+
 # Introduction to oyster farming
 
-As we face the deleterious ecological impacts of current industrial and agricultural production methods, oyster aquaculture has been proposed as part of a food system reimagined to have greater sustainability. Not only does oyster cultivation bypass common agricultural issues like land scarcity; farming oysters can provide benefits to the health of the marine ecosystems to which they are native. These potential benefits include enhanced water quality, habitat provision to other marine species, and storm surge protection [@stevens2024].
+\begin{wrapfigure}{l}{0.5\textwidth}
+  \vspace{-\baselineskip}
+  \centering
+    \includegraphics[width=\linewidth]{images/clipboard-2987364097.png}
+  \caption{Selected Anatomy of an Eastern Oyster, *Crossastrea virginica*. (Source: https://www.mdsg.umd.edu/lesson-plans/eastern-oyster-education)}
+  \vspace{-\baselineskip}
+\end{wrapfigure}
 
-```{r chunkname, echo = FALSE, outwidth = "65%", out.extra = 'style="float:right; padding:10px"'}
-```
+\textcolor{red}{Insert few sentences that describe the history of oysters farming-see the beginning of Ray and Fulweiler meta-analysis.}
 
-[![Selected Anatomy of an Eastern Oyster (*Crossastrea virginica*)](images/clipboard-2987364097.png){width="208"}](https://www.mdsg.umd.edu/lesson-plans/eastern-oyster-education)
+As the ecological consequences of industrial and agricultural production become increasingly evident, oyster aquaculture has emerged as a potential solution for a more sustainable food system. Unlike traditional agriculture, oyster farming does not require land or freshwater resources and can provide ecological benefits to the marine environments where oysters naturally thrive. These benefits include improved water quality, habitat creation for marine species, and storm surge protection [@stevens2024].
 
-(\^\^\^need help getting text to wrap here.)
-
-Oysters are filter-feeders. They filter \~50 gallons of seawater per day, taking in algae and large plankton through their gills while smaller plankton and water pass through. The organic matter retained by the oyster is then either ingested, passing through the oyster's digestive tract to be excreted as feces, or rejected by the oyster, wrapped in a mucosal lining and deposited into the sediment as pseudofeces.
+Oysters are filter feeders, capable of filtering ~50 gallons of seawater per day. As water passes through their gills, they retain organic matter, consuming algae and large plankton while allowing smaller plankton and excess water to pass through. Retained material is either ingested and excreted as feces or rejected, encased in mucus, and deposited into the sediment as pseudofeces.
 
 # Theory #1: Oysters enhance the biodiversity and composition of microbial communities in the seafloor.
 
