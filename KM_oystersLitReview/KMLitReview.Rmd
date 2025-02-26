@@ -12,9 +12,9 @@ knitr::opts_chunk$set(echo = TRUE)
 
 # Introduction to the microbial world
 
-In a narrative that usually centers around plants, microorganisms are the unsung heroes of primary production. They work on a scale we cannot see, but the effects of their cumulative efforts are impossible to miss. For instance, half of the oxygen in each breath we take has been produced by oceanic microbes [@pomeroy]. Take a breath. (Thanks microbes!)
+Microorganisms are the unsung heroes of primary production In a narrative that usually centers around plants. They work on a scale we cannot see, but the effects of their cumulative efforts are impossible to miss; half of the oxygen in each breath we take has been produced by oceanic microbes [@pomeroy]. Take a breath. (Thanks microbes!)
 
-Let's start by meeting the three domains of life: Bacteria, Archaea, and Eukarya. In the classification system (domain, kingdom, phylum..., species), domain is the broadest level of distinction. As humans, we belong to the domain Eukarya, along with all other organisms whose cell(s) have genetic material enclosed in membrane-bound nuclei. In other words, in the most basic delineation between life forms present on Earth, we, in all of our complexity, are grouped with plants, fungi, and many microbial species (including some single-celled microbes), while the two remaining categories are not only exclusively microbes, but exclusively prokaryotic[^1] microbes.
+Let's start with meeting the three domains of life: Bacteria, Archaea, and Eukarya. In the classification system (*i.e.* domain, kingdom, phylum, and species), domain is the broadest level of distinction. Humans belong to Eukarya, along with plants, fungi, and many microbial species In other words, in the most basic delineation between life forms present on Earth, we, in all of our complexity, are grouped with plants, fungi, and many microbial species (including some single-celled microbes), while the two remaining categories are not only exclusively microbes, but exclusively prokaryotic[^1] m
 
 [^1]: Prokaryotes: Unicellular microbes with free-floating genetic material in their cytoplasm. They can have organelles, like ribosomes (which all organisms have) or flagella (little extracellular hairlike-structures that enable movement for cells), but they do not have membrane-bound organelles. A prokaryotic cell is like DNA/RNA-cytoplasm soup.
 
@@ -37,9 +37,6 @@ In summary, microbes are diverse and abundant. Their community actions provide u
 # Introduction to oyster farming
 
 As we face the deleterious ecological impacts of current industrial and agricultural production methods, oyster aquaculture has been proposed as part of a food system reimagined to have greater sustainability. Not only does oyster cultivation bypass common agricultural issues like land scarcity; farming oysters can provide benefits to the health of the marine ecosystems to which they are native. These potential benefits include enhanced water quality, habitat provision to other marine species, and storm surge protection [@stevens2024].
-
-```{r chunkname, echo = FALSE, outwidth = "65%", out.extra = 'style="float:right; padding:10px"'}
-```
 
 [![Selected Anatomy of an Eastern Oyster (Crossastrea virginica)](images/clipboard-2987364097.png){width="208"}](https://www.mdsg.umd.edu/lesson-plans/eastern-oyster-education)
 
@@ -87,10 +84,12 @@ So to sum it up, oyster sediment bacteria improve water quality and combat eutro
 
 -   \*Omg. Discussed in next paragraph. pg 4 column 2 of ray and fulweiler
 
-## Summary of Ray & Fulweiler paper, "Meta-analysis of oyster impacts on coastal biogeochemistry"
+# Trade-offs
 
-Oyster aquaculture increases the cycling of nitrogen in marine systems by stimulating denitrifying bacteria and archaea.This improves water quality, with the trade-off of releasing a small amount of nitrous oxide (N~2~o) into the atmosphere [@ray2021].
+I attended a Cornell presentation session with my dad on the NYC campus many years ago. One of the presentation discussed the planning of coastal cities, with a focus on Hudson Bay oysters. I knew from this experience that oysters were once prevalent in the Hudson, but populations were decimated in the nineteenth and early twentieth centuries. I heard about projects to build up the oyster populations for storm surge protection (coral reefs work similarly and it is the same concept as keeping a ground cover on cropland to prevent erosion (and dust bowls!). Barnacle life slows the advance of oncoming waves.) and to improve water quality through their filtration properties. This sounded like a wonderful solution and something that should be widely implemented. However, the studies I have read (not even my actual research project, just learning about other people’s work) has made me wary of trade-offs to “sustainable” solutions. For example, the denitrification by sediment microbes is an intermediate, and therefore leaky process. Before nitrates and nitrites (NO~x~ groups) are fully reduced to N~2~, they become nitrous oxide molecules (a potent greenhouse gas), some of which escape into the atmosphere. This happens on a much smaller scale than anthropogenic greenhouse gas emission, but it is still happening. The paper that 
 
-Testing another citation [@feinman2018].
+increasing dinoflagellate growth
+
+## Conclusion
 
 ## Citations
