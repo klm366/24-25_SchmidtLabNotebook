@@ -12,7 +12,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 # Introduction to the microbial world
 
-Microorganisms are the unsung heroes of primary production In a narrative that usually centers around plants. They work on a scale we cannot see, but the effects of their cumulative efforts are impossible to miss; half of the oxygen in each breath we take has been produced by oceanic microbes [@pomeroy]. Take a breath. (Thanks microbes!)
+Microorganisms are the unsung heroes of primary production: a narrative that usually centers around plants. They work on a scale we cannot see, but the effects of their cumulative efforts are impossible to miss; half of the oxygen in each breath we take has been produced by oceanic microbes [@pomeroy]. Take a breath. (Thanks microbes!)
 
 Let's start with meeting the three domains of life: Bacteria, Archaea, and Eukarya. In the classification system (*i.e.* domain, kingdom, phylum, and species), domain is the broadest level of distinction. Humans belong to Eukarya, along with plants, fungi, and many microbial species In other words, in the most basic delineation between life forms present on Earth, we, in all of our complexity, are grouped with plants, fungi, and many microbial species (including some single-celled microbes), while the two remaining categories are not only exclusively microbes, but exclusively prokaryotic[^1] m
 
