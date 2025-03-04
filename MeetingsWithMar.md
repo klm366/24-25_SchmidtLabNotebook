@@ -1,5 +1,10 @@
 # Meetings with Mar 
 
+## 20250225 - February 26th, 2025
+- finishing rough draft of lit review by Thursday and sending to Mar to look at
+- learning PCR from Sophia Thurs, next Tues
+- re-reading Feinman paper for discussion with Mar in our meeting next Tues :)
+
 ## 20250212 - February 12th, 2025
 
 To-Dos for Kelly:
