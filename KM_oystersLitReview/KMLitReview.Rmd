@@ -66,17 +66,23 @@ It's a microbial world—we're just living in it.
   \vspace{-\baselineskip}
 \end{wrapfigure}
 
-\textcolor{red}{Insert few sentences that describe the history of oysters farming-see the beginning of Ray and Fulweiler meta-analysis.}
+Oyster aquaculture has been practiced globally since ancient times, when oysters were in the Greek, Roman, and Chinese diets. [@botta2020]. In the last two hundred years, overharvesting and coastal development activities (ex. dredging) have decimated reefs. More than "85% of oyster reefs have been lost globally, and less than 1% of wild populations remain in many locations" [@ray2021].
 
-Oyster aquaculture has been practiced globally since ancient times, when oysters were in the Greek, Roman, and Han Dynasty diets. [@botta2020]. In the last two hundred years, overharvesting and coastal development activities (ex. dredging) have decimated reefs. More than "85% of oyster reefs have been lost globally, and less than 1% of wild populations remain in many locations" [@ray2021].
-
-Today, many coastal communities are trying to build back their oyster populations. As the ecological consequences of industrial and agricultural production become increasingly evident, responsible oyster aquaculture has emerged as part of a re-imagined, more sustainable food system. Unlike traditional agriculture, oyster farming does not require land or freshwater resources and can provide ecological benefits to the ecosystem where it is implemented. These benefits include improved water quality, habitat creation for marine species, and storm surge protection [@stevens2024].
+Today, many coastal communities are trying to build back their oyster populations. As the ecological consequences of industrial and agricultural production become increasingly evident, responsible oyster aquaculture has emerged as part of a re-imagined, more sustainable food system. Unlike traditional agriculture, oyster farming does not require land or freshwater resources–and can even provide ecological benefit. These benefits include improved water quality, habitat creation for marine species, and storm surge protection [@stevens2024].
 
 # Theory #1: Oysters enhance the biodiversity and composition of microbial communities in the seafloor.
 
-Oysters are filter feeders, capable of filtering around 50 gallons of seawater per day. As water passes through their gills, they obtain algae and large plankton. This organic matter is either ingested and excreted as feces or rejected, encased in mucus, and deposited into the sediment as pseudofeces. Oyster biodeposition promotes a sediment environment that is rich in urea (CH~4~N~2~O), ammonia (NH~3~), phosphorous (P), and silicon (Si), and contains metals like iron (Fe), molybdenum (Mo) and copper (Cu) [@ray2021].
+\textcolor{red}{Similar to the vitality of creating living soils, and on soil as a community that pulls in CO2 from the atmosphere instead of just seeing plants as the main carbon sinks, the marine floor can be seen as a living sediment, where decaying matter is broken down by microbes for the nutrients to be sequestered or recycled.}
 
-By providing marine sediments with diverse nutrients, oysters promote biodiverse microbial communities. For example, bacteria with the *Nar* gene might only be able to perform nitrate reduction in an environment with molybedenum, as "nitrate reductase requires a Molybdenum protein co-factor"[@stevens2024]. Likewise for bacteria with the *Nos* gene: "nitrous oxide reductase requires Cu for reducing nitrous oxide (N~2~O) to N~2~" [@stevens2024]. Compared to control samples from the bare seafloor, oyster bed sediment microbial communities exhibit... (greater diversity - examples)
+Oysters are filter feeders, capable of filtering around 50 gallons of seawater per day. As water passes through their gills, they obtain algae and large plankton. This organic matter is either ingested and eventually excreted as feces–or rejected, encased in mucus, and deposited into the sediment as pseudofeces. Oyster biodeposition promotes a sediment environment that is rich in urea (CH~4~N~2~O), ammonia (NH~3~), phosphorous (P), and silicon (Si), and contains trace metals like iron (Fe), molybdenum (Mo) and copper (Cu) [@ray2021].
+
+Nitrogen and carbon content increase impacts community composition
+
+By adding diverse nutrients to marine sediments, oysters promote biodiverse microbial communities [@feinman2018] . Bacteria with the *Nar* gene might only be able to perform nitrate reduction in an environment with molybedenum, as "nitrate reductase requires a Molybdenum protein co-factor"[@stevens2024]. Likewise for bacteria with the *Nos* gene: "nitrous oxide reductase requires Cu for reducing nitrous oxide (N~2~O) to N~2~" [@stevens2024]. Compared to control samples from the bare seafloor, oyster bed sediment microbial communities exhibit... (greater diversity - examples)
+
+A study from Northeastern University found that oyster stocking density (loosely versus tightly packed oyster farms) accounted for more of the variability in sediment microbial community composition between samples than did the location of the samples (inter-tidal versus sub-tidal range), though the paper did not find a direct connection[@feinman2018]. Whether on-bottom methods or tray farming had been used–meaning the oyster colony was on a tray suspended in the water, instead of having contact with the sediments– impacted sediment microbial community composition, but less so than stocking density or location, per the same study [@feinman2018].
+
+One bacterial genus that increased in richness as a result of oyster farming was *Vibrio* [@feinman2018]. Some species of *Vibrio* are associated with food-borne illnesses stemming from seafood ingestion [@feinman2018]. However, the *Vibrio* present were not the pathogenic strains; there was insufficient evidence that the *Vibrio* richness increase from oyster farming was harmful to human health [@feinman2018].
 
 ### ~~1. how oysters impact biodiversity (through poop)~~
 
@@ -92,17 +98,13 @@ By providing marine sediments with diverse nutrients, oysters promote biodiverse
 
 -   Some studies showed underwhelming changes to the microbial community in the presence and absence of oyster farming.
 
--   The one paper on different methods within the Mass Bay (I think it was the Northeastern paper?) found that hanging oysters (grown suspended in the water column) did not impact the soil communities as the oysters were not in contact with the ground.
-
 -   I think there was a study that said older oyster beds had different microbiomes compared to younger ones, measured at year 3, 5, and 7.
-
--   One paper took into consideration the potential for pathogenic microbes to humans coming from oysters. This paper (#5) found that *Vibrio* species were found in the oyster sediments (*Vibrio* being associated with food-borne illnesses stemming from seafood). However, the *Vibrio* were not the pathogenic strains. The *Vibrio* present in the samples were determined to not be harmful to human health.
-
--   **Similarly to how there is emphasis in agriculture on creating living soils, and on soil as a community that pulls in CO2 from the atmosphere instead of just seeing plants as the main carbon sinks, the marine floor can be seen as a living sediment, where decaying matter is broken down by microbes for the nutrients to be sequestered or recycled.**
 
 -   concentration of iron has sig. role in how microbes cycle P [@stevens2024] makes me need to go back to biogeochem paper to learn about P cycling
 
 -   nitrogen loading responsible for biodiversity declines [@ray2021] pg 1
+
+    ## \textcolor{red}{WTH are the actual microbial species in the samples? Why can't I find anything??}
 
 # Theory #2: Oysters stimulate increased denitrification by sediment microbiota.
 
