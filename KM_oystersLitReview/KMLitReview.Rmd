@@ -66,9 +66,9 @@ It's a microbial world—we're just living in it.
   \vspace{-\baselineskip}
 \end{wrapfigure}
 
-Oyster aquaculture has been practiced globally since ancient times, when oysters were in the Greek, Roman, and Chinese diets. [@botta2020]. In the last two hundred years, overharvesting and coastal development activities (ex. dredging) have decimated reefs. More than "85% of oyster reefs have been lost globally, and less than 1% of wild populations remain in many locations" [@ray2021].
+Oyster aquaculture has been practiced globally since ancient times, when oysters were part of the Greek, Roman, and Chinese diets. [@botta2020]. In the last two hundred years, overharvesting and coastal development activities (ex. dredging) have decimated reefs. More than "85% of oyster reefs have been lost globally, and less than 1% of wild populations remain in many locations" [@ray2021].
 
-Today, many coastal communities are trying to build back their oyster populations. As the ecological consequences of industrial and agricultural production become increasingly evident, responsible oyster aquaculture has emerged as part of a re-imagined, more sustainable food system. Unlike traditional agriculture, oyster farming does not require land or freshwater resources–and can even provide ecological benefit. These benefits include improved water quality, habitat creation for marine species, and storm surge protection [@stevens2024].
+Today, many coastal communities are trying to build back their oyster populations. As the ecological consequences of industrial and agricultural production become increasingly evident, responsible oyster aquaculture has emerged as part of a re-imagined, more sustainable food system. Unlike traditional agriculture, oyster farming does not require land or freshwater resources–and can even provide ecological benefits. These benefits include improved water quality, habitat creation for marine species, and storm surge protection [@stevens2024].
 
 Oysters are filter feeders, capable of filtering \~50 gallons of seawater per day. As water passes through their gills, they obtain algae and large plankton. This organic matter is either ingested and eventually excreted as feces–or rejected, encased in mucus, and deposited into the sediment as pseudofeces. Oyster biodeposition promotes a sediment environment that is rich in urea (CH~4~N~2~O), ammonia (NH~3~), phosphorous (P), and silicon (Si), and contains trace metals like iron (Fe), molybdenum (Mo) and copper (Cu) [@ray2021].
 
@@ -76,21 +76,15 @@ Oysters are filter feeders, capable of filtering \~50 gallons of seawater per da
 
 \textcolor{red}{Similar to the vitality of creating living soils, and on soil as a community that pulls in CO2 from the atmosphere instead of just seeing plants as the main carbon sinks, the marine floor can be seen as a living sediment, where decaying matter is broken down by microbes for the nutrients to be sequestered or recycled.}
 
+By...
+
 Nitrogen and carbon content increase impacts community composition
 
 By adding trace metals to marine sediments, oysters promote biodiverse microbial communities [@feinman2018] . Bacteria with the *Nar* gene might only be able to perform nitrate reduction in an environment with molybedenum, as "nitrate reductase requires a Molybdenum protein co-factor"[@stevens2024]. Likewise for bacteria with the *Nos* gene: "nitrous oxide reductase requires Cu for reducing nitrous oxide (N~2~O) to N~2~" [@stevens2024].
 
 **description for the pic I actually want to use: "relative abundances of bacterial phyla in RefSeq-annotated RNA transcripts from control and 7 yr sites" (source = Stevens)**
 
-\begin{wrapfigure}{l}{0.5\textwidth}
-  \vspace{-\baselineskip}
-  \centering
-    \includegraphics[width=\linewidth]{images/feinmanPaperYearClass.png}
-  \caption{relative abundances of different classes within phylum Proteobacteria (I), Bacteroidetes (II), Firmicutes (III), and Chloroflexi (IV). Different letters across the same color bars denote significant differential abundance. Note the different y-axis scales (Source: {Stevens et al., 2024) )}
-  \vspace{-\baselineskip
-\end{wrapfigure}
-
-### \textcolor{red}{+ pg 292 fig 5, stevens paper?}
+### \\textcolor{red}{+ pg 292 fig 5, stevens paper?}
 
 Based on sampling from Ninigret Pond–a coastal lagoon in Rhode Island–some of the most dominant bacterial phyla that showed a drastic increase in abundance from control to farmed sites were *Proteobacteria*, *Thermotogae*, and *Spirochaetes* [@stevens2024]. Per the same study, 141 genera exhibited differential abundance between control and farmed site samples. 124 of those genera, including *Firmicutes*, *Deltaproteobacteria*, and *Epsilonproteobacteria*, were more abundant at the farmed sites [@stevens2024]. Some genera were less abundant at the farmed sites–like *Alphaproteobacteria* and *Gammaproteobacteria* [@stevens2024]. While the abundance of microbes was higher at farmed sites than control sites, the community composition did not appear drastically different in modelling by phyla. And, while there was some uniformity between the relative abundance of the various phyla from control sites, the farmed sites showed less agreement–particularly in the relative abundance of *Firmicutes* [@stevens2024].
 
@@ -118,15 +112,23 @@ Compared to control samples from the bare seafloor, oyster bed sediment microbia
 
     ## \textcolor{red}{WTH are the actual microbial species in the samples? Why can't I find anything??}
 
+    ![](images/referencedPhylaGraph.png)
+
 # Theory #2: Oysters stimulate increased denitrification by sediment microbiota.
 
-Oyster sediment microbes boost the recycling, cycling, and sequestering of many nutrients in the water column, including nitrogen, phosphorous, and silicon. This can help to combat eutrophication and climate change. Industrial and agriculture production often releases excess nutrients, like the three mentioned above, into bodies of water in the form of fuel, fertilizer, and waste run-off.
+Oyster sediment microbes boost the cycling and recycling of nitrogen, phosphorous, and silicon in the water column [@ray2021]. As agricultural and industrial production load freshwater and marine systems with these nutrients in the form of fuel, fertilizer, and waste run-off, nutrient cycling is critical to mitigating eutrophication. While an overabundance of nitrogen and phosphorous causes phytoplankton overgrowth and harmful algal blooms, the long-term result is anoxia–conditions in which very few organisms from the original, oxygenic ecosystem can survive.
+
+and climate change.
+
+This can help to combat eutrophication and climate change. Industrial and agriculture production releases excess nutrients, like the three mentioned above, into bodies of water in the form of fuel, fertilizer, and waste run-off.
 
 The papers contradict each other with how pronounced this impact is. Some did not even find the difference in eutrophication to be statistically significant. I am curious how they separate the impact of microbes living in and on oysters from those in the sediments. Just a thought. Sediment microbes, like actinobacteria and proteobacteria are part of the denitrification process.
 
 Here's the pathway: nutrient loading on aquatic system - probably from anthropogenic activity.
 
 Then, this stimulates an increase in the abundance of many photosynthetic organisms, like cyanobacteria. All the time, decaying matter and detritus is falling through the water column in the form of marine snow. When oysters "catch" plankton and other microbes and algae, they are pulled out from the water column, boosting water clarity. The seafloor is, ideally covered in decay and also microbes. It is a place of regeneration, of recycling. When sediment microbes take in nitrogen paired with organic material (usually it will be in the form of ammonia or urea, although neither of those are organics?? But are they just with carbon anyway?) microbes break the bonds between nitrogen and hydrogen, returning hydrogen to the water column? At some points, our nitrogens in the process of denitrification are paired with oxygens but the oxygens are eventually returned to the water column. Close to the end of the process of denitrification, nitrous oxide is created. Nitrous oxide is a harmful greenhouse gas, however, the amounts released from sediment denitrification are very small. The Fulweiler meta-analysis suggests that the amount of nitrous oxide released is negligible. This would be a good place to put the Ray and Fulweiler nutrient flux diagram
+
+![](images/nitrogenMovement.png)
 
 Oyster poop microbes remineralize unstable nitrogen compounds (urea, ammonia, nitrate, nitrite, nitric oxide, nitrous oxide), returning them to the water column as N~2~. Diatom nitrogen makes up like 70% of our atmosphere and gas rises so a lot of the N~2~ is recycled back into the air. Kind of cool that we are all breathing matter that had its energy spent and has been recycled billions of time. From death back unto life, or something like that.
 
@@ -152,7 +154,7 @@ So to sum it up, oyster sediment bacteria improve water quality and combat eutro
 
 # Trade-offs
 
-I attended a Cornell presentation session with my dad on the NYC campus many years ago. One of the presentation discussed the planning of coastal cities, with a focus on Hudson Bay oysters. I knew from this experience that oysters were once prevalent in the Hudson, but populations were decimated in the nineteenth and early twentieth centuries. I heard about projects to build up the oyster populations for storm surge protection (coral reefs work similarly and it is the same concept as keeping a ground cover on cropland to prevent erosion (and dust bowls!). Barnacle life slows the advance of oncoming waves.) and to improve water quality through their filtration properties. This sounded like a wonderful solution and something that should be widely implemented. However, the studies I have read (not even my actual research project, just learning about other people’s work) has made me wary of trade-offs to “sustainable” solutions. For example, the denitrification by sediment microbes is an intermediate, and therefore leaky process. Before nitrates and nitrites (NO~x~ groups) are fully reduced to N~2~, they become **nitrous oxide** molecules (a potent greenhouse gas), some of which escape into the atmosphere. This happens on a much smaller scale than anthropogenic greenhouse gas emission, but it is still happening. The paper that 
+Denitrification by sediment microbes is an intermediate, and therefore leaky process. Before nitrates and nitrites (NO~x~ groups) are fully reduced to N~2~, they become **nitrous oxide** molecules (a potent greenhouse gas), some of which escape into the atmosphere. This happens on a much smaller scale than anthropogenic greenhouse gas emission, but it is still happening. The paper that 
 
 **increasing dinoflagellate growth**
 
