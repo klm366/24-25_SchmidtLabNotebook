@@ -1,5 +1,11 @@
 # Meetings with Mar 
 
+## 20250313 - March 13th, 2025
+- Mar will repeat the DADA2 workflow for the New England oyster microbiota project; Kelly will analyze the data, using the Paliy and Shankar paper on multivariate statistics as a guide
+- Kelly will watch the lecture happening next Monday (and finally turn in her lit review!!)
+- long-term plan for Kelly - beta analysis, qPCR
+- symposium dates: May 20th and 21st
+
 ## 20250225 - February 26th, 2025
 - finishing rough draft of lit review by Thursday and sending to Mar to look at
 - learning PCR from Sophia Thurs, next Tues
