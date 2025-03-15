@@ -1,0 +1,52 @@
+---
+title: "Kelly's Lab Notebook"
+author: "Kelly Miller"
+date: "2025-03-15"
+output: 
+  html_document:
+    code_folding: show
+    highlight: default
+    keep_md: yes
+    theme: journal
+    toc: yes
+    toc_float:
+      collapsed: no
+      smooth_scroll: yes
+      toc_depth: 3
+editor_options: 
+  chunk_output_type: console
+  markdown: 
+    wrap: 72
+---
+
+```{=html}
+<style>
+pre code, pre, code {
+  white-space: pre !important;
+  overflow-x: scroll !important;
+  word-break: keep-all !important;
+  word-wrap: initial !important;
+}
+</style>
+```
+# Introduction
+
+### Hello welcome to my laboratory notebook! This document will serve as my electronic notebook for my wet lab work while I am with the Schmidt Lab during my New Visions internship.
+
+# February
+
+## 2/11/2025
+
+### Purpose
+
+Learning how to pipette from Sophia
+
+### Results
+
+Pipetting was successful! I can pipette and will be ready to begin PCR either next week or in the distant future after my February break.
+
+# March
+
+## PCR 1
+
+## PCR 2
