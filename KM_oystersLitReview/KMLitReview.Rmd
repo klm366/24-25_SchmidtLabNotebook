@@ -2,15 +2,17 @@
 title: "Review of the Literature on Oyster Bed Microbial Communities"
 author: "Kelly Miller"
 date: "2025-02-07"
-output: pdf_document
+output:
+  word_document: default
+  pdf_document: default
 bibliography: references.bib
 header-includes:
-  - \usepackage{setspace}\singlespacing
-  - \usepackage{wrapfig}
-  - \usepackage[singlelinecheck=false]{caption}
-  - \usepackage{caption}
-  - \captionsetup[figure]{font=small}
-  - \pagenumbering{gobble}
+- \usepackage{setspace}\singlespacing
+- \usepackage{wrapfig}
+- \usepackage[singlelinecheck=false]{caption}
+- \usepackage{caption}
+- \captionsetup[figure]{font=small}
+- \pagenumbering{gobble}
 mainfont: Times New Roman
 fontsize: 11pt
 geometry: margin=1in
@@ -46,7 +48,7 @@ Denitrification results in the removal of nitrogen from the system, occurring wh
 
 While the traditional depiction of the food chain is a pyramid with plants at the base, topped by primary, secondary, and tertiary consumers, much of the available energy in our food webs derives from microbes. This microbial-driven energy flow is called the **microbial loop**. It begins with **primary production** performed by photosynthetic bacteria—either **bacterioplankton**, which are bacteria and archaea that drift through the water column [@pomeroy], or **periphyton**, which are attached to submerged surfaces like sediments and aquatic plants. These microbes use sunlight energy (and sometimes heat energy—in a process known as **chemosynthesis**) to form organic compounds, just as terrestrial plants do [@pomeroy]. Bacterioplankton and periphyton's biomass–built by performing photosynthesis/chemosynthesis–then fuels the rest of the ecosystem. One food chain looks like this: bacterioplankton are consumed by microflagellates (\<0.002 mm), which are in turn eaten by ciliates like *Paramecium* (\~0.02-0.2 mm). These ciliates are then preyed upon by copepods (1-2 mm) and mid-size animal plankton called mesozooplankton (0.2-20 mm). All of this occurs before fish larvae enter the food web as predators, linking microbial production to larger organisms.
 
-However, the microbial loop can be short-circuited by **filter-feeders** like oysters and krill, which capture microorganisms en masse as they pump seawater through their gills. Regardless of whether or not the full microbial loop has occured, it is closed by the microbes involved in decomposition, where they break down decaying organisms and detritus. This process releases essential nutrients back into the water column, where they can be reabsorbed by bacterioplankton, completing the cycle.
+However, the microbial loop can be short-circuited by **filter-feeders** like oysters and krill, which capture microorganisms en masse as they pump seawater through their gills. Regardless of whether or not the full microbial loop has occured, it is closed by the microbes involved in decomposition, when they break down decaying organisms and detritus. This process releases essential nutrients into the water column, where they can be reabsorbed by bacterioplankton.
 
 ## It's a Microbial World
 
@@ -68,17 +70,13 @@ It's a microbial world—we're just living in it.
 
 Oyster aquaculture has been practiced globally since ancient times, when oysters were part of the Greek, Roman, and Chinese diets. [@botta2020]. In the last two hundred years, overharvesting and coastal development activities (ex. dredging) have decimated reefs. More than "85% of oyster reefs have been lost globally, and less than 1% of wild populations remain in many locations" [@ray2021].
 
-Today, many coastal communities are trying to build back their oyster populations. As the ecological consequences of industrial and agricultural production become increasingly evident, responsible oyster aquaculture has emerged as part of a re-imagined, more sustainable food system. Unlike traditional agriculture, oyster farming does not require land or freshwater resources–and can even provide ecological benefits. These benefits include improved water quality, habitat creation for marine species, and storm surge protection [@stevens2024].
-
-Oysters are filter feeders, capable of filtering \~50 gallons of seawater per day. As water passes through their gills, they obtain algae and large plankton. This organic matter is either ingested and eventually excreted as feces–or rejected, encased in mucus, and deposited into the sediment as pseudofeces. Oyster biodeposition promotes a sediment environment that is rich in urea (CH~4~N~2~O), ammonia (NH~3~), phosphorous (P), and silicon (Si), and contains trace metals like iron (Fe), molybdenum (Mo) and copper (Cu) [@ray2021].
+Today, many coastal communities are trying to build back their oyster populations. As the ecological consequences of industrial and agricultural production become increasingly evident, responsible oyster aquaculture has emerged as part of a reimagined, more sustainable food system. Unlike traditional agriculture, oyster farming does not require land or freshwater resources–and can even provide ecological benefits. These benefits include improved water quality, habitat creation for marine species, and storm surge protection [@stevens2024].
 
 # Theory #1: Oysters enhance the biodiversity and composition of microbial communities in the seafloor.
 
-\textcolor{red}{Similar to the vitality of creating living soils, and on soil as a community that pulls in CO2 from the atmosphere instead of just seeing plants as the main carbon sinks, the marine floor can be seen as a living sediment, where decaying matter is broken down by microbes for the nutrients to be sequestered or recycled.}
+Oysters are filter feeders, capable of filtering \~50 gallons of seawater per day. As water passes through their gills, they obtain algae and large plankton. This organic matter is either ingested and eventually excreted as feces–or rejected, encased in mucus, and deposited into the sediment as pseudofeces. Oyster biodeposition promotes a sediment environment that is rich in carbon (C), nitrogen (N), phosphorous (P), and silicon (Si), and contains trace metals like iron (Fe), molybdenum (Mo) and copper (Cu) [@ray2021].
 
-By...
-
-Nitrogen and carbon content increase impacts community composition
+By... Nitrogen and carbon content increase impacts community composition
 
 By adding trace metals to marine sediments, oysters promote biodiverse microbial communities [@feinman2018] . Bacteria with the *Nar* gene might only be able to perform nitrate reduction in an environment with molybedenum, as "nitrate reductase requires a Molybdenum protein co-factor"[@stevens2024]. Likewise for bacteria with the *Nos* gene: "nitrous oxide reductase requires Cu for reducing nitrous oxide (N~2~O) to N~2~" [@stevens2024].
 
@@ -86,43 +84,23 @@ By adding trace metals to marine sediments, oysters promote biodiverse microbial
 
 ### \\textcolor{red}{+ pg 292 fig 5, stevens paper?}
 
+## Microbial communities found in oyster bed sediment
+
 Based on sampling from Ninigret Pond–a coastal lagoon in Rhode Island–some of the most dominant bacterial phyla that showed a drastic increase in abundance from control to farmed sites were *Proteobacteria*, *Thermotogae*, and *Spirochaetes* [@stevens2024]. Per the same study, 141 genera exhibited differential abundance between control and farmed site samples. 124 of those genera, including *Firmicutes*, *Deltaproteobacteria*, and *Epsilonproteobacteria*, were more abundant at the farmed sites [@stevens2024]. Some genera were less abundant at the farmed sites–like *Alphaproteobacteria* and *Gammaproteobacteria* [@stevens2024]. While the abundance of microbes was higher at farmed sites than control sites, the community composition did not appear drastically different in modelling by phyla. And, while there was some uniformity between the relative abundance of the various phyla from control sites, the farmed sites showed less agreement–particularly in the relative abundance of *Firmicutes* [@stevens2024].
 
-One bacterial genus that increased in richness as a result of oyster farming was *Vibrio* [@feinman2018]. Some species of *Vibrio* are associated with food-borne illnesses stemming from seafood ingestion [@feinman2018]. However, the *Vibrio* present were not the pathogenic strains; there was insufficient evidence that the *Vibrio* richness increase from oyster farming was harmful to human health [@feinman2018].
+One bacterial genus that increased in richness as a result of oyster farming was *Vibrio* [@feinman2018]. Some species of *Vibrio* are associated with food-borne illnesses stemming from seafood ingestion [@feinman2018]. However, Feinman et. al, 2018 found that *Vibrio* present were not the pathogenic strains; there was insufficient evidence that the *Vibrio* richness increase from oyster farming was harmful to human health [@feinman2018].
 
-Factors varying between oyster beds affect the influence oyster farming has on sediment microbial communities. A study from Northeastern University found that oyster stocking density (loosely versus tightly packed oyster farms) accounted for more of the variability in sediment microbial community composition between samples than did the location of the samples (intertidal versus subtidal range), though the paper did not find a direct connection[@feinman2018]. Whether on-bottom methods or tray farming had been used–meaning the oyster colony was on a tray suspended in the water, instead of having contact with the sediments– impacted sediment microbial community composition, but less so than stocking density or location [@feinman2018].
+Factors varying between oyster beds affect the influence oyster farming has on sediment microbial communities. The Feinman et al. study found that oyster stocking density (loosely versus tightly packed oyster farms) accounted for more of the variability in sediment microbial community composition between samples than did the location of the samples (intertidal versus subtidal range), though the paper did not find a direct connection[@feinman2018]. Whether on-bottom methods or tray farming had been used–meaning the oyster colony was on a tray suspended in the water, instead of having contact with the sediments– impacted sediment microbial community composition, but less so than stocking density or location [@feinman2018].
 
-Compared to control samples from the bare seafloor, oyster bed sediment microbial communities exhibit... (greater diversity - examples)
-
-### ~~1. how oysters impact biodiversity (through poop)~~
-
-### ~~2. what is in oyster poop~~
-
-### 3. what microbes are there (on/in the seafloor) **(compare to control)**
-
-### 4. why this matters
-
-------------------------------------------------------------------------
-
--   Some studies showed underwhelming changes to the microbial community in the presence and absence of oyster farming.
-
--   concentration of iron has sig. role in how microbes cycle P [@stevens2024] makes me need to go back to biogeochem paper to learn about P cycling
-
--   nitrogen loading responsible for biodiversity declines [@ray2021] pg 1
-
-    ## \textcolor{red}{WTH are the actual microbial species in the samples? Why can't I find anything??}
-
-    ![](images/referencedPhylaGraph.png)
+firmicutes picture
 
 # Theory #2: Oysters stimulate increased denitrification by sediment microbiota.
 
-Oyster sediment microbes boost the cycling and recycling of nitrogen, phosphorous, and silicon in the water column [@ray2021]. As agricultural and industrial production load freshwater and marine systems with these nutrients in the form of fuel, fertilizer, and waste run-off, nutrient cycling is critical to mitigating eutrophication. While an overabundance of nitrogen and phosphorous causes phytoplankton overgrowth and harmful algal blooms, the long-term result is anoxia–conditions in which very few organisms from the original, oxygenic ecosystem can survive.
+Oyster sediment microbes boost the cycling and recycling of nitrogen, phosphorous, and silicon in the water column [@ray2021]. As agricultural and industrial production load freshwater and marine systems with these nutrients in the form of fuel, fertilizer, and waste run-off, nutrient cycling is critical to mitigating eutrophication. While an overabundance of nitrogen and phosphorous causes phytoplankton overgrowth and harmful algal blooms, the long-term result is anoxia–conditions in which very few organisms from the original, oxygenic ecosystem can survive. This is where oyster bed microbes come into play: "Stimulation of sediment denitrification and denitrification in oysters can permanently remove excess N from coastal systems, reducting the impact of eutrophication" [@ray2021].
 
-and climate change.
+While oysters themselves have denitrifying microbes in their microbiomes, sediments may have a greater impact on nitrogen cycling. While 17/45 studies in a meta-analysis by Ray & Fulweiler (2021) reported fluxes from oysters, 31/45 reported fluxes from sediments[@ray2021].
 
-This can help to combat eutrophication and climate change. Industrial and agriculture production releases excess nutrients, like the three mentioned above, into bodies of water in the form of fuel, fertilizer, and waste run-off.
-
-The papers contradict each other with how pronounced this impact is. Some did not even find the difference in eutrophication to be statistically significant. I am curious how they separate the impact of microbes living in and on oysters from those in the sediments. Just a thought. Sediment microbes, like actinobacteria and proteobacteria are part of the denitrification process.
+Where
 
 Here's the pathway: nutrient loading on aquatic system - probably from anthropogenic activity.
 
@@ -130,21 +108,15 @@ Then, this stimulates an increase in the abundance of many photosynthetic organi
 
 ![](images/nitrogenMovement.png)
 
-Oyster poop microbes remineralize unstable nitrogen compounds (urea, ammonia, nitrate, nitrite, nitric oxide, nitrous oxide), returning them to the water column as N~2~. Diatom nitrogen makes up like 70% of our atmosphere and gas rises so a lot of the N~2~ is recycled back into the air. Kind of cool that we are all breathing matter that had its energy spent and has been recycled billions of time. From death back unto life, or something like that.
+Oyster poop microbes remineralize unstable nitrogen compounds (urea, ammonia, nitrate, nitrite, nitric oxide, nitrous oxide), returning them to the water column as N~2~.
+
+Diatom nitrogen makes up like 70% of our atmosphere and gas rises so a lot of the N~2~ is recycled back into the air. Kind of cool that we are all breathing matter that had its energy spent and has been recycled billions of time. From death back unto life, or something like that.
 
 So to sum it up, oyster sediment bacteria improve water quality and combat eutrophication. Now I am realizing that I need to learn more about how they actually combat eutrophication and mitigate global warming. I think I've mentioned sequestering, but do they really sequester? Maybe I'm getting carbon cycle and nitrogen cycle confused.
-
--   17/45 studies report fluxes from oysters, 31/45 report fluxes from sediments [@ray2021], pg 1
-
-    -   Although it may be easier to understand that oysters themselves are the big denitrifiers, one of the papers argue that the sediment microbes are doing more of the work.
-
-    -   Look into new paper I found???
 
 -   "sediments beneath oysters return significantly more NH~4~^+^ to the water column than bare sediments" [@ray2021], pg. 2, 1st col, oysters have highly-variable effect on NO~x~ fluxes between studies, in contrast
 
 -   ""oysters also have a strong effect on sediment phosphate regeneration" [@ray2021], si unclear
-
--   "Stimulation of sediment denitrification and denitrification in oysters can permenantly remove excess N from coatal systems, reducting the impact of europhication." [@ray2021], pg 2\`
 
 -   check pg 3z - effect on primary production. promote nitrogen recycling, but add back to system? How does this combat denitrification?
 
@@ -158,6 +130,13 @@ Denitrification by sediment microbes is an intermediate, and therefore leaky pro
 
 **increasing dinoflagellate growth**
 
-## Conclusion
+# Conclusion - next steps
+
+From my review of the literature on oyster sediment microbial communities, I have formed the thoughts to guide my own research:
+
+1.  Is there a significant difference in the biodiversity of microbial communities in control versus oyster sediments based on my dataset?
+2.  How pronounced is the impact of denitrifying microbes in these communities? With trade-offs like an increase in dinoflagellate growth and the release of nitrous oxide to consider, it is important to weigh the value of the nutrient cycling performed by oyster sediment microbes.
+
+Sediment microbial communities are one factor to be considered in an evaluation of oysters' impact on the environment.
 
 ## Citations
