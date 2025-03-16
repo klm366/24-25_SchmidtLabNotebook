@@ -36,7 +36,7 @@ Instead of performing metabolic pathways from start to finish–like the way our
 
 Each microorganism in this pathway has a specific enzyme that catalyzes one step in the sequence. Dr. Lawrence Pomeroy described this microbial community behavior as an "external digestive process" that benefits motile bacteria [@pomeroy]. Dr. Farooq Azam simplified it even further, calling microbial communities the "ultimate swimming stomachs" [@pomeroy].
 
-Denitrification results in the removal of nitrogen from the system, occurring when N~2~ gas (a very stable, non-reactive form of nitrogen due to the triple bond between the two nitrogen molecules) bubbles up and is released into the atmosphere–where it naturally makes up nearly 80% of the air we breathe [@theatmo]. In a world where greenhouse gas emissions resulting from human activity are knocking environmental equilibrium off balance, the storage of nitrogen as diatoms is especially vital now. When in more volatile forms (NO~x~), nitrogen compounds have the potential to form nitrous oxide, a greenhouse gas three hundred times more potent than carbon dioxide [@whylaug].
+Denitrification results in the removal of nitrogen from the system, occurring when N~2~ gas (a very stable, non-reactive form of nitrogen due to the triple bond between the two nitrogen molecules) bubbles up and is released into the atmosphere–where it naturally makes up nearly 80% of the air we breathe [@theatmo]. In a world where greenhouse gas emissions resulting from human activity are knocking environmental equilibrium off balance, the storage of nitrogen as diatoms is especially vital now. When in more volatile forms (NO~x~), nitrogen compounds have the potential to form nitrous oxide, a greenhouse gas three hundred times more potent than carbon dioxide.
 
 ![](images/clipboard-3756250656.png){width="624"}
 
@@ -74,15 +74,11 @@ Today, many coastal communities are trying to build back their oyster population
 
 # Theory #1: Oysters enhance the biodiversity and composition of microbial communities in the seafloor.
 
-Oysters are filter feeders, capable of filtering \~50 gallons of seawater per day. As water passes through their gills, they obtain algae and large plankton. This organic matter is either ingested and eventually excreted as feces–or rejected, encased in mucus, and deposited into the sediment as pseudofeces. Oyster biodeposition promotes a sediment environment that is rich in carbon (C), nitrogen (N), phosphorous (P), and silicon (Si), and contains trace metals like iron (Fe), molybdenum (Mo) and copper (Cu) [@ray2021].
+Oysters are filter feeders, capable of filtering \~50 gallons of seawater per day. As water passes through their gills, they obtain algae and large plankton. This organic matter is either ingested and eventually excreted as feces–or rejected, encased in mucus, and deposited into the sediment as pseudofeces. Oyster biodeposition promotes a sediment environment that is rich in carbon (C), nitrogen (N), and phosphorous (P) and contains trace metals like iron (Fe), molybdenum (Mo) and copper (Cu). [@ray2021].
 
-By... Nitrogen and carbon content increase impacts community composition
+Though carbon, nitrogen, and phosphorous naturally settle to the bottom of marine systems as **marine snow** (decaying organisms and water column detritus), the abundance of these elements is greatly increased by oyster biodeposition. Oysters excrete twice the concentration of carbon, nitrogen and phosphorous of marine snow particles [@mara2021]. An environment rich with these nutrients can have altered biodiversity and community composition.
 
 By adding trace metals to marine sediments, oysters promote biodiverse microbial communities [@feinman2018] . Bacteria with the *Nar* gene might only be able to perform nitrate reduction in an environment with molybedenum, as "nitrate reductase requires a Molybdenum protein co-factor"[@stevens2024]. Likewise for bacteria with the *Nos* gene: "nitrous oxide reductase requires Cu for reducing nitrous oxide (N~2~O) to N~2~" [@stevens2024].
-
-**description for the pic I actually want to use: "relative abundances of bacterial phyla in RefSeq-annotated RNA transcripts from control and 7 yr sites" (source = Stevens)**
-
-### \\textcolor{red}{+ pg 292 fig 5, stevens paper?}
 
 ## Microbial communities found in oyster bed sediment
 
@@ -92,7 +88,7 @@ One bacterial genus that increased in richness as a result of oyster farming was
 
 Factors varying between oyster beds affect the influence oyster farming has on sediment microbial communities. The Feinman et al. study found that oyster stocking density (loosely versus tightly packed oyster farms) accounted for more of the variability in sediment microbial community composition between samples than did the location of the samples (intertidal versus subtidal range), though the paper did not find a direct connection[@feinman2018]. Whether on-bottom methods or tray farming had been used–meaning the oyster colony was on a tray suspended in the water, instead of having contact with the sediments– impacted sediment microbial community composition, but less so than stocking density or location [@feinman2018].
 
-firmicutes picture
+firmicutes picture **"relative abundances of bacterial phyla in RefSeq-annotated RNA transcripts from control and 7 yr sites" (source = Stevens)**
 
 # Theory #2: Oysters stimulate increased denitrification by sediment microbiota.
 
@@ -100,11 +96,9 @@ Oyster sediment microbes boost the cycling and recycling of nitrogen, phosphorou
 
 While oysters themselves have denitrifying microbes in their microbiomes, sediments may have a greater impact on nitrogen cycling. While 17/45 studies in a meta-analysis by Ray & Fulweiler (2021) reported fluxes from oysters, 31/45 reported fluxes from sediments[@ray2021].
 
-Where
+Denitrification by sediment microbes is an intermediate, and therefore leaky process. Before nitrates and nitrites (NO~x~ groups) are fully reduced to N~2~, they become **nitrous oxide** molecules (a potent greenhouse gas), some of which escape into the atmosphere. This happens on a much smaller scale than anthropogenic greenhouse gas emission, but it is still happening. The paper that 
 
-Here's the pathway: nutrient loading on aquatic system - probably from anthropogenic activity.
-
-Then, this stimulates an increase in the abundance of many photosynthetic organisms, like cyanobacteria. All the time, decaying matter and detritus is falling through the water column in the form of marine snow. When oysters "catch" plankton and other microbes and algae, they are pulled out from the water column, boosting water clarity. The seafloor is, ideally covered in decay and also microbes. It is a place of regeneration, of recycling. When sediment microbes take in nitrogen paired with organic material (usually it will be in the form of ammonia or urea, although neither of those are organics?? But are they just with carbon anyway?) microbes break the bonds between nitrogen and hydrogen, returning hydrogen to the water column? At some points, our nitrogens in the process of denitrification are paired with oxygens but the oxygens are eventually returned to the water column. Close to the end of the process of denitrification, nitrous oxide is created. Nitrous oxide is a harmful greenhouse gas, however, the amounts released from sediment denitrification are very small. The Fulweiler meta-analysis suggests that the amount of nitrous oxide released is negligible. This would be a good place to put the Ray and Fulweiler nutrient flux diagram
+**increasing dinoflagellate growth**
 
 ![](images/nitrogenMovement.png)
 
@@ -123,12 +117,6 @@ So to sum it up, oyster sediment bacteria improve water quality and combat eutro
 -   Seems that oysters do not have a net positive ability related to sequestering carbon. Installing oyster aquacutlutre initially increases sediment CO~2~ and CH~4~ release, before returning to baseline. This is good compared to more typical forms of raising protein because for example, cow corn monoculture releases hella GHGs from soils. But there are limited studies on the impact of oyster aquacutluutre on GHG emissions. I am left wondering about the strength of the one study discussed in the Ray paper. Also, do oysters themselves release GHGs?\* Are there other pieces of oyster awauculture that release GHGs? Restoration projects are underway; should they be?
 
 -   \*Omg. Discussed in next paragraph. pg 4 column 2 of ray and fulweiler
-
-# Trade-offs
-
-Denitrification by sediment microbes is an intermediate, and therefore leaky process. Before nitrates and nitrites (NO~x~ groups) are fully reduced to N~2~, they become **nitrous oxide** molecules (a potent greenhouse gas), some of which escape into the atmosphere. This happens on a much smaller scale than anthropogenic greenhouse gas emission, but it is still happening. The paper that 
-
-**increasing dinoflagellate growth**
 
 # Conclusion - next steps
 
