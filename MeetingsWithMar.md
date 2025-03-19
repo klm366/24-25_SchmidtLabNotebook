@@ -1,5 +1,13 @@
 # Meetings with Mar 
 
+## 20250319
+**Kelly's Game Plan:**
+- Thursday: look for/read papers on qPCR of denitrification genes (*nirS* (+*K*), *nosZ*, maybe *nor*). Develop a conceptual understanding of qPCR
+- Tuesday (3/25): build phylogenetic tree with oyster dataset based on phylo tree learnings from Wed 3/19 lab.
+- Wednesday (3/26): lab and lecture!
+
+**Long-term:** investigate the beta diversity of oyster sediment microbial communities and quantify their various denitrification genes to get an idea of nitrous oxide emissions from oyster bed microbial denitrification.
+
 ## 20250313 - March 13th, 2025
 - Mar will repeat the DADA2 workflow for the New England oyster microbiota project; Kelly will analyze the data, using the Paliy and Shankar paper on multivariate statistics as a guide
 - Kelly will watch the lecture happening next Monday (and finally turn in her lit review!!)
