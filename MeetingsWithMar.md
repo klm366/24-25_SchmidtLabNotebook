@@ -1,5 +1,10 @@
 # Meetings with Mar 
 
+## 20250402
+- find temperature and sequence info on *nirS* primers
+- look at qPCR presentation
+- gBlock in Lab Protocols
+
 ## 20250319
 **Kelly's Game Plan:**
 - Thursday: look for/read papers on qPCR of denitrification genes (*nirS* (+*K*), *nosZ*, maybe *nor*). Develop a conceptual understanding of qPCR
