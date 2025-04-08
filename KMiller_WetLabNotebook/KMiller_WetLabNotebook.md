@@ -29,22 +29,7 @@ pre code, pre, code {
 }
 </style>
 ```
-```{r setup, include=FALSE}
-# For width of code chunks and scroll bar 
-options(width=250)
 
-knitr::opts_chunk$set(eval = TRUE, 
-                      echo = TRUE, 
-                      include = TRUE,
-                      warning = FALSE,
-                      collapse = FALSE,
-                      message = FALSE,
-                      dpi=200, dev = "png",
-                      engine = "R", # Chunks will always have R code, unless noted
-                      error = TRUE,
-                      fig.path="images/",  # Set the figure options
-                      fig.align = "center") 
-```
 # Introduction
 
 Hello welcome to my laboratory notebook! This document will serve as my electronic notebook for my wet lab work while I am with the Schmidt Lab during my New Visions internship.
