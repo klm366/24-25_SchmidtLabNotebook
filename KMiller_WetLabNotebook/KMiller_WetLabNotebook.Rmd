@@ -51,29 +51,103 @@ Hello welcome to my laboratory notebook! This document will serve as my electron
 
 # February
 
-## 2/11/2025
+### 2/11/2025
 
-### Purpose
+#### Purpose
 
 Learning how to pipette from Sophia
 
-### Results
+#### Results
 
 Pipetting was successful! I can pipette and will be ready to begin PCR either next week or in the distant future after my February break.
 
 # March
 
-## PCR 1
+### 3/6/2025
 
-## PCR 2
+#### Purpose
 
-## Multi-channel pipetting
+-   Learning PCR from Sophia
+
+Today we will just perform PCR. We will save the gel electrophoresis for
+another day.
+
+I. Samples to be thermocycled for PCR
+
+|             |                |                  |            |                             |         |           |                      |                            |               |                  |
+|-------------|----------------|------------------|------------|-----------------------------|---------|-----------|----------------------|----------------------------|---------------|------------------|
+| **Tube \#** | **Box Number** | **Box Location** | **DNA_ID** | **Sample_ID**               | **DNA** | **Water** | **DNA conc (ng/ul)** | **Final_Vol (DNA+ water)** | **Final_Con** | **Nanograms_in** |
+| 1           | 7              | C5               | SR_D098    | AAI_EXP_20230511_205_FP_BW1 | 1       | 10        | 50.5                 | 10                         | 5.05          | 50.05            |
+| 2           | 7              | G7               | SR_D120    | AAI_EXP_20230609_215_FP_BW1 | 1       | 10        | 19.3                 | 10                         | 1.93          | 19.3             |
+| 3           | 13             | C9               | SA_D035    | AAE_EXP_20240821_128_SD_1   | 1       | 10        | 47.6                 | 10                         | 4.76          | 47.6             |
+| 4           | blank          |                  |            |                             | 1       | 10        |                      |                            |               |                  |
+
+then we will need to dilute the DNA to 0.5ng/ul to ensure the
+concentration is standard across all samples.
+
+| **D N A_ID** | **Samp l e_ID**                     | DNA | Water | DNA conc ( ng/ul) | Fi n al_Vol (DNA+ water) | Fi n al_Con ( ng/ul) |
+|--------------|-------------------------------------|-----|-------|-------------------|--------------------------|----------------------|
+| S R_D098     | AAI_EX P \_20230 5 11_205 \_ FP_BW1 | 1   | 100   | 50.5              | 101                      | 0.5                  |
+| S R_D120     | AAI_EX P \_20230 6 09_215 \_ FP_BW1 | 1   | 37.6  | 19.3              | 38.6                     | 0.5                  |
+| S A_D035     | AAE\_ E XP_202 4 0821_1 2 8_SD_1    | 1   | 94.2  | 47.6              | 95.2                     | 0.5                  |
+
+D. These are the amounts used of PCR mix.
+
++-------------+----------+--------------------+--------------------+
+| **PCR Mix** | uL / rxn | \# rxns (not using | total (25ul total  |
+|             |          | multichannel)      | mix)               |
+|             |          |                    |                    |
+|             |          |                    | aka 15 MM + 10 DNA |
++-------------+----------+--------------------+--------------------+
+| KAPA        | 12.5     | 7                  | 87.5               |
++-------------+----------+--------------------+--------------------+
+| F (MS1)     | 0.5      | 7                  | 3.5                |
++-------------+----------+--------------------+--------------------+
+| R (MS2)     | 0.5      | 7                  | 3.5                |
++-------------+----------+--------------------+--------------------+
+| Water       | 1.5      | 7                  | 10.5               |
++-------------+----------+--------------------+--------------------+
+| DNA         | 10       | 7                  | (70 total but dont |
+|             |          |                    | add to MM)         |
++-------------+----------+--------------------+--------------------+
+
+for the negative control we also did 15 ul MM + 10 ul of water for a
+total volume of 25ul. The samples were also 15ul MM + 10 ul of template
+DNA
+
+E. Thermocycler Conditions:
+
+-   3 min \@ 95C
+
+-   30 sec \@ 95C
+
+-   30 sec \@ 50C
+
+-   30 sec \@ 72C
+
+-   24X repeats
+
+-   5 min \@ 72C
+
+This is using the il_adapt protocol
+
+We are letting the samples be processed in the thermocycler and I will
+put them into the fridge labelled so that we can complete the gel
+electrophoresis next time (feb break will delay this)
+
+
+### 3/?/2025
+#### Sophia and I had our second session working on PCR. We made a gel this time! It did not come out clearly, but it was okay for practice.
+
+### 3/?/2025
+#### Sophia taught me how to  perform serial dilutions and use a multi-channel pipette. We practiced using water and a dye.
 
 # April
 
-## Choosing primers and gBlock
+### 4/8/2025
+#### Choosing primers and gBlock
 
-### **Primer set #1: cd3aF** and **R3cd**
+#### **Primer set #1: cd3aF** and **R3cd**
 
 #### cd3aF (GTSAACGTSAAGGARACSGG, annealing temp = 49.7)
 
@@ -93,7 +167,7 @@ when I tried to "reverse complement" the sequence.
 
 ![](images/clipboard-2763734372.png){width="5in"}
 
-### Primer set #2: cd3aF and R4bcd
+#### Primer set #2: cd3aF and R4bcd
 
 ##### R4bcd (CGTTGAAYTTRCCGGTSGG, annealing temp = 54.2)
 
@@ -126,7 +200,7 @@ Let's go!!
 
 ---
 
-### To sum it up:
+#### To sum it up:
 
 -   I will be using **cd3aF** and **R4bcd** as my primers for *nirS*
     qPCR.
